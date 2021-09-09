@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HadiKhedri
-- 👀 I’m interested in coding, java
+- 👀 I’m interested in coding, java and Database design
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
