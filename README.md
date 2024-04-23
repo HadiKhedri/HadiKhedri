@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HadiKhedri
 - 👀 I’m interested in data analysis,python AI and Database design
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
